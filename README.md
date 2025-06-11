@@ -1,8 +1,7 @@
 
 # 🍽️ Robot Serving System
 
-A ROS2-based autonomous robot serving system that simulates a smart restaurant environment using TurtleBot3.  
-The system enables robot navigation, order taking, kitchen display updates, and automatic food delivery.
+This project is based on ROS 2 and simulates a restaurant service robot in Gazebo. When a customer places an order through the GUI installed at each table, the robot delivers the ordered menu item from the kitchen to the corresponding table. All order details and sales data are stored in an SQL database, enabling efficient restaurant management and data analysis in the future.
 
 ---
 
